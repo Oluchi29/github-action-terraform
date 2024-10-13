@@ -37,12 +37,12 @@ variable "ami_id" {
 
 variable "a_z_a" {
   type    = string
-  default = "us-east-1"
+  default = "us-east-1a"
 }
 
 variable "a_z_b" {
   type    = string
-  default = "us-east-1"
+  default = "us-east-1b"
 }
 
 variable "key_name" {
